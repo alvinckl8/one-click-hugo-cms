@@ -1,6 +1,6 @@
 ---
 title: Great coffee
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?

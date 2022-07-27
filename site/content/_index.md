@@ -1,6 +1,6 @@
 ---
-title: Great coffee
-subtitle: Enjoying a cup
+title: SM PROMINENT SDN BHD
+subtitle: " "
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?

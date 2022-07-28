@@ -31,11 +31,11 @@ values:
   heading: OUR VALUES
   text: >
     VISION: pursue excellence and build a first-class modern enterprise with
-    international competitiveness.
+    international competitiveness.<br>
 
 
-    CORE VALUES: keep pace with the times, create value and develop together with customers.
+    CORE VALUES: keep pace with the times, create value and develop together with customers.<br>
 
 
-    CORE PHILOSOPHY: team spirit, the pursuit of excellence.
+    CORE PHILOSOPHY: team spirit, the pursuit of excellence.<br>
 ---

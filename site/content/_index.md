@@ -29,13 +29,8 @@ products:
       fall in love with in our shop.
 values:
   heading: OUR VALUES
-  text: >
-    VISION: pursue excellence and build a first-class modern enterprise with
-    international competitiveness.<br>
-
-
-    CORE VALUES: keep pace with the times, create value and develop together with customers.<br>
-
-
-    CORE PHILOSOPHY: team spirit, the pursuit of excellence.<br>
+  text: Our vision pursue excellence and build a first-class modern enterprise
+    with international competitiveness. We keep pace with the times, create
+    value and develop together with customers. Our team spirit, the pursuit of
+    excellence.
 ---

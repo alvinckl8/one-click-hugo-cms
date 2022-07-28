@@ -1,5 +1,5 @@
 ---
-title: SM PROMINENT SDN BHD
+title: SM PROMINENT SDN. BHD.
 subtitle: " "
 image: /img/home-jumbotron.jpg
 blurb:

@@ -14,7 +14,7 @@ contact_entries:
 ---
 <h3 class="f4 b lh-title mb2">SM PROMINENT SDN BHD</h3>
 
-**Sales Manager:** Travis Loong
+**Sales Manager:** Traviss Loong
 
 **Tel:** +60108888777
 

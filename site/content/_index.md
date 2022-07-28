@@ -3,17 +3,18 @@ title: SM PROMINENT SDN BHD
 subtitle: " "
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: COMPANY INTRODUCTION
+  text: >
+    SM PROMINENT SDN. BHD. is a high-tech company mainly engaged in beauty
+    equipment. Our company has professional level and mature technology. 
+
+    Relying on honest service and excellent quality, our company has earned good reputation in the beauty industry.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: QUALITY ASSURANCE
+  text: >
+    Our company strictly follows the quality system requirements.
+
+    SM PROMINENT uses the standard of the medical device quality system, our machines are in line with European CE standards.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from

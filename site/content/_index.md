@@ -29,8 +29,8 @@ products:
       fall in love with in our shop.
 values:
   heading: OUR VALUES
-  text: Our vision pursue excellence and build a first-class modern enterprise
+  text: "Our vision pursue excellence and build a first-class modern enterprise
     with international competitiveness. We keep pace with the times, create
     value and develop together with customers. Our team spirit, the pursuit of
-    excellence.
+    excellence. "
 ---

@@ -16,7 +16,7 @@ description: "Instead of the traditional surgical face lift with a non-invasive
   high-energy focused ultrasound transmitted to the skin layers."
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/h207922853d65485980fa706cb09fb10af.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a

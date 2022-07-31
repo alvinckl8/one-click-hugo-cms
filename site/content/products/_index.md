@@ -1,13 +1,19 @@
 ---
-title: Our Coffee
-type: products
+title: Our Products
 image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: "Equipment Advantage:"
+description: "Instead of the traditional surgical face lift with a non-invasive
+  technique. Tighten sagging skin,improve sagging and other signs of aging. With
+  a special transmitter,transmission from the skin surface conduction of
+  high-energy focused ultrasound to the SMAS layer.  SMAS contraction : collagen
+  remodeling , elastine fiber contraction. In the skin layer to produce the
+  specified target multiple temperatures above 65-70 degrees in short time or
+  above sonic focus high energy,forming”heat cure” area,the focus cells are
+  solidified,then ablation,fascia speedy improvement,to achieve cosmetic wrinkle
+  effect. Non-invasive,no time to rest after surgery,ultrasound, no surgery,no
+  trace wrinkle skin rejuvenation.  Fit any age,both men and women. Equipped
+  with a variety of different levels of energy emission transmitter skin,the
+  high-energy focused ultrasound transmitted to the skin layers."
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,12 +43,25 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: "Equipment Advantage:"
+  description: >-
+    Instead of the traditional surgical face lift with a non-invasive technique.
+
+    Tighten sagging skin,improve sagging and other signs of aging.
+
+    With a special transmitter,transmission from the skin surface conduction of high-energy focused ultrasound to the SMAS layer.
+
+
+    SMAS contraction : collagen remodeling , elastine fiber contraction.
+
+    In the skin layer to produce the specified target multiple temperatures above 65-70 degrees in short time or above sonic focus high energy,forming”heat cure” area,the focus cells are solidified,then ablation,fascia speedy improvement,to achieve cosmetic wrinkle effect.
+
+    Non-invasive,no time to rest after surgery,ultrasound, no surgery,no trace wrinkle skin rejuvenation.
+
+
+    Fit any age,both men and women.
+
+    Equipped with a variety of different levels of energy emission transmitter skin,the high-energy focused ultrasound transmitted to the skin layers.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -61,20 +80,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -82,21 +98,20 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-nsoving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: "?"
+type: products
 ---
-
-

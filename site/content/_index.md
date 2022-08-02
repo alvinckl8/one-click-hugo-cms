@@ -1,7 +1,7 @@
 ---
 title: SM PROMINENT SDN. BHD.
 subtitle: " "
-image: img/blog-index.jpg
+image: img/og-image.jpg
 blurb:
   heading: COMPANY INTRODUCTION
   text: >

@@ -1,7 +1,7 @@
 ---
 title: SM PROMINENT SDN. BHD.
 subtitle: " "
-image: /img/home-jumbotron.jpg
+image: img/top.png
 blurb:
   heading: COMPANY INTRODUCTION
   text: >

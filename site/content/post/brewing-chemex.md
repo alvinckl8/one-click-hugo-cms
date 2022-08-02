@@ -1,6 +1,6 @@
 ---
-title: A STORY ABOUT US
-date: 2022-08-02T09:51:41.134Z
+title: A STORY ABOUT
+date: 2018-12-31T09:51:41.134Z
 description: SM PROMINENT SDN. BHD.
 image: /img/blog-chemex.jpg
 ---

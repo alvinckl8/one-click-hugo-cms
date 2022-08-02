@@ -1,7 +1,7 @@
 ---
 title: SM PROMINENT SDN. BHD.
 subtitle: " "
-image: img/og-image.jpg
+image: img/products-full-width.jpg
 blurb:
   heading: COMPANY INTRODUCTION
   text: >
@@ -16,7 +16,7 @@ intro:
 
     SM PROMINENT uses the standard of the medical device quality system, our machines are in line with European CE standards.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/product-1.png
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local

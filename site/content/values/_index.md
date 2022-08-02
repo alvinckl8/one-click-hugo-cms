@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/about-jumbotron.jpg
+image: img/our-factory.png
 values:
   - heading: SM PROMINENT SDN. BHD.
     text: established in 2018 year, which is a professional export supplier and
@@ -9,5 +9,5 @@ values:
       are approved by CE and ROHS, and have exported to the United Kingdom,
       Germany, the United States, Australia, Japan etc, more than 30 countries
       and regions with widely acclaimed.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/factory-hifu.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: img/whatsapp-image-2022-07-27-at-10.46.36-am.jpeg
+logo: img/logo.png
 contact_entries:
   - heading: Location
     text: |-

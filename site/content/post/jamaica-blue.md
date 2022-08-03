@@ -1,9 +1,11 @@
 ---
-title: A STORY ABOUT
-date: 2018-12-31T15:04:10.000Z
-description: OUR FACTORY
+title: 3D HIFU Body Treatments
+date: 2022-08-03T09:12:50.869Z
+description: 3D HIFU Body Treatments
+image: img/3d-treatment-5.png
 ---
-• Main business: Development, production.\
-• Service: OEM/ODM\
-• FOur company has a complete department system: Production Department, Foreign Trade Deparment , Design Department, Logistics Department, after-sales Department and marketing Department.\
-• Main Direction: Export.
+<!--StartFragment-->
+
+Our 3D Lipo Ultimate Pro system offers advanced medical grade technologies for body sculpting and skin tightening. Our medical grade 3D Body HIFU (High Intensity Focused Ultrasound) treatments is ideal for treating stubborn pockets of harder fat, such as on the thighs, hips, stomach and flanks in the fastest possible treatment time.  
+
+<!--EndFragment-->

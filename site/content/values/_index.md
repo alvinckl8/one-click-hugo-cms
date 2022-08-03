@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/our-factory.png
+image: img/hifu-mac1.png
 values:
   - heading: SM PROMINENT SDN. BHD.
     text: established in 2018 year, which is a professional export supplier and

@@ -1,12 +1,11 @@
 ---
-title: A STORY ABOUT
-date: 2018-12-31T15:04:10.000Z
-description: HIFU
-image: /img/blog-flavor_wheel.jpg
+title: 3D HIFU Facelift Treatments
+date: 2022-08-03T09:15:50.902Z
+description: 3D HIFU Facelift Treatments
+image: img/3d-hifu-circle.png
 ---
-A STORY ABOUT 3D HIFU
+<!--StartFragment-->
 
-• Main Features: Facial lifting, Slimming.\
-• Main products: 3D hifu is the latest technology, A press 11 lines a step 10mm width .\
-• Screen: 180° Rotating for using.\
-• Transmitter: Standard(3.0mm, 4.5mm, 8.0mm), Selective buy(6.0mm, 10mm, 13mm, 16mm).
+Our 3D Lipo Ultimate Pro system offers advanced medical grade technologies for body sculpting and skin tightening. Our medical grade 3D Body HIFU (High Intensity Focused Ultrasound) treatments is ideal for treating stubborn pockets of harder fat, such as on the thighs, hips, stomach and flanks in the fastest possible treatment time.  
+
+<!--EndFragment-->

@@ -1,12 +1,11 @@
 ---
-title: "A STORY ABOUT "
-date: 2018-12-31T09:51:41.134Z
-description: SM PROMINENT SDN. BHD.
-image: /img/blog-chemex.jpg
+title: 3D Fat Freeze Treatments
+date: 2022-08-03T09:00:25.369Z
+description: 3D Fat Freeze Treatments
+image: img/3d-treatment-circle.png
 ---
+<!--StartFragment-->
 
+Our 3D Lipo Ultimate Pro system offers advanced medical grade technologies for body sculpting and skin tightening. Our medical grade Fat Freezing treatments can freeze fat to a much lower temperature than standard machines (down to -10 degrees). This non-invasive treatment uses a combination of electro and cryo therapies and is ideal for those with stubborn pockets of fat which diet and exercise alone are unable to budge.
 
-• Main business: skin tightening and weight loss equipment.\
-• Main products: 3d hifu, hifu face lifting machine, hifu slimming machine.\
-• Founded year (AD): 2018.\
-• Main trading area: United Kingdom, Germany, the United States, Australia, Japan and other countries and regions in the world.
+<!--EndFragment-->

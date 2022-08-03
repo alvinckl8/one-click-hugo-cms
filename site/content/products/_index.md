@@ -27,28 +27,25 @@ intro:
     a completely non-invasice lifting and contouring device that provide a
     customised treatment procedure for the entire face, neck, and body.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Technology
+  description: The latest MMFU high energy focused ultrasound technology is a
+    non-invading equipment for skin tightening. It can improve the face lifting,
+    skin tightening, contouring with maximum efficiency through non-surgical
+    treatment, with extraordinary clinical effect.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Display Screen
+    image: img/499753e1c7.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Treatment Area
+    image: img/ae1f5b1528.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Tighten, Contour+Lift Sagging Skin On SMAS Layer
+    image: img/01e0685373.jpg
 testimonials: []
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: " "
+  description: " "
   plans: []
 type: products
 ---

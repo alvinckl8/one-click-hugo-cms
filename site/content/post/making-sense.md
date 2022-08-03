@@ -6,6 +6,6 @@ image: img/3d-hifu-circle.png
 ---
 <!--StartFragment-->
 
-Our 3D Lipo Ultimate Pro system offers advanced medical grade technologies for body sculpting and skin tightening. Our medical grade 3D Body HIFU (High Intensity Focused Ultrasound) treatments is ideal for treating stubborn pockets of harder fat, such as on the thighs, hips, stomach and flanks in the fastest possible treatment time.  
+3D HIFU facelift (High Intensity Focused Ultrasound) is a non surgical facelift technology which offers brow lifting, jowl lifting, nasolabial fold reduction, periorbital wrinkle reduction and overall skin tightening and rejuvenation. HIFU has quickly become one of the most sought after non surgical facelift treatments with the need for only one session, and results which can last up to 18 months.
 
 <!--EndFragment-->

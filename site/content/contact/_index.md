@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: img/logo.png
+logo: img/5f992ba55d99b.jpg
 contact_entries:
   - heading: Location
     text: |-

@@ -1,6 +1,6 @@
 ---
 title: 3D Skin Tightening Treatments
-date: 2022-08-03T08:40:48.647Z
+date: 2022-08-03T08:46:43.849Z
 description: 3D Skin Tightening Treatments
 image: img/treatment-in-progress.jpg
 ---

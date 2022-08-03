@@ -16,7 +16,7 @@ intro:
 
     SM PROMINENT uses the standard of the medical device quality system, our machines are in line with European CE standards.
 products:
-  - image: img/product-1.png
+  - image: img/82.jpg
     text: |-
       Applications:
 

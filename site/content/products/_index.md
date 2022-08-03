@@ -1,6 +1,6 @@
 ---
 title: Our Products
-image: /img/products-jumbotron.jpg
+image: img/eae2336757a2f6631cda0725d63d4f64.jpg
 heading: High Intensity Focused Ultrasonic
 description: High Intensity Focused Ultrasonic (HIFU) is also named Ultraformer
   III, is a high-intensity focused ultrasound treatment designed to help reverse
@@ -42,7 +42,7 @@ main:
     alt: Tighten, Contour+Lift Sagging Skin On SMAS Layer
     image: img/01e0685373.jpg
 testimonials: []
-full_image: /img/products-full-width.jpg
+full_image: img/217aa22bd4.jpg
 pricing:
   heading: " "
   description: " "

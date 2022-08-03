@@ -18,6 +18,6 @@ contact_entries:
 
 **Tel:** +60108888777
 
-**WhatsAPP:** +60108888777
+**WhatsAPP:** [+60108888777](https://wa.me/60108888777)
 
 **Email:** loongks88@gmail.com

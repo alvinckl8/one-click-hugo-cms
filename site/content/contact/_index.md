@@ -4,11 +4,10 @@ logo: img/5f992ba55d99b.jpg
 contact_entries:
   - heading: Location
     text: |-
-      Arcoris SOHO,
-      Jalan Kiara 4,
-      Mont Kiara,
-      50480 Kuala Lumpur,
-      Federal Territory of Kuala Lumpur.
+      Lot 9-1 & 9-2, Level 9,
+      Equatorial Plaza,
+      Jalan Sultan Ismail,
+      50250 Kuala Lumpur, Malaysia.
   - heading: Working hours
     text: "Monday – Sunday: 9AM – 7PM"
 ---

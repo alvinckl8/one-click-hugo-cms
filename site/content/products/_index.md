@@ -14,13 +14,11 @@ intro:
       text: High Intensity Focused Ultrasonic (HIFU) Face Lifting Wrinkle Removal
         Beauty Machine With 7 Cartridges
     - image: img/molly-white-06.jpg
-      text: |-
+      text: |
         Molly Care
-        https://beautrice.onpay.my/order/form/beautrice
     - image: img/molly-white-07.jpg
-      text: |-
+      text: |
         Molly White
-        https://beautrice.onpay.my/order/form/beautrice
   heading: High Intensity Focused Ultrasonic
   description: High Intensity Focused Ultrasonic (HIFU) is also named Ultraformer
     III, is a high-intensity focused ultrasound treatment designed to help
@@ -47,7 +45,7 @@ testimonials: []
 full_image: img/217aa22bd4.jpg
 pricing:
   heading: " Shopping Cart"
-  description: ' <a href="https://beautrice.onpay.my/order/form/beautrice">BUY NOW</a>'
+  description: https://beautrice.onpay.my/order/form/beautrice
   plans: []
 type: products
 ---

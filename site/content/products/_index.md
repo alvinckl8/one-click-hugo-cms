@@ -13,6 +13,8 @@ intro:
     - image: img/80.jpg
       text: High Intensity Focused Ultrasonic (HIFU) Face Lifting Wrinkle Removal
         Beauty Machine With 7 Cartridges
+    - image: img/82.jpg
+      text: HIFU treatment procedure for the entire face, neck, and body.
     - image: img/molly-white-06.jpg
       text: |
         Molly Care

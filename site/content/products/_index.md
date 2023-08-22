@@ -15,12 +15,6 @@ intro:
         Beauty Machine With 7 Cartridges
     - image: img/82.jpg
       text: HIFU treatment procedure for the entire face, neck, and body.
-    - image: img/molly-white-06.jpg
-      text: |
-        Molly Care
-    - image: img/molly-white-07.jpg
-      text: |
-        Molly White
   heading: High Intensity Focused Ultrasonic
   description: High Intensity Focused Ultrasonic (HIFU) is also named Ultraformer
     III, is a high-intensity focused ultrasound treatment designed to help
@@ -42,9 +36,9 @@ main:
     image: img/ae1f5b1528.jpg
   image3:
     alt: Results
-    image: img/01e0685373.jpg
+    image: img/molly-white-06.jpg
 testimonials: []
-full_image: img/217aa22bd4.jpg
+full_image: img/molly-white-07.jpg
 pricing:
   heading: " Shopping Cart"
   description: https://beautrice.onpay.my/order/form/beautrice

@@ -47,7 +47,7 @@ testimonials: []
 full_image: img/217aa22bd4.jpg
 pricing:
   heading: " Shopping Cart"
-  description: " https://beautrice.onpay.my/order/form/beautrice"
+  description: ' <a href="https://beautrice.onpay.my/order/form/beautrice">BUY NOW</a>'
   plans: []
 type: products
 ---

@@ -36,11 +36,11 @@ main:
     alt: Display Screen
     image: img/499753e1c7.jpg
   image2:
-    alt: Treatment Area
-    image: img/ae1f5b1528.jpg
+    alt: Molly Care
+    image: img/molly-white-06.jpg
   image3:
-    alt: Tighten, Contour+Lift Sagging Skin On SMAS Layer
-    image: img/01e0685373.jpg
+    alt: Molly White
+    image: img/molly-white-07.jpg
 testimonials: []
 full_image: img/217aa22bd4.jpg
 pricing:
